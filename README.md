@@ -2,7 +2,7 @@
 ***
 [Live Preview](https://bhornbhaya.github.io/odin-landing-page/)
 ***
-##What I learned in this Project
+## What I learned in this Project
   * Flexbox
   * BEM Naming Convention
   * CSS variables
@@ -10,4 +10,4 @@
   * Pseudo Element - :root, ::before, ::after, :link, :visited, :hover, and :active
   * Box model
   * Transform property
-  * Emmet 
+  * Emmet
